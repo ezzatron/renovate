@@ -1,4 +1,6 @@
 {
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+
   "description": "Default Renovate config preset",
 
   "extends": [
@@ -11,6 +13,7 @@
   ],
 
   "configMigration": true,
+  "gitAuthor": "Ezzatron Renovate <147964408+ezzatron-renovate[bot]@users.noreply.github.com>",
   "labels": ["renovate"],
   "pinDigests": false,
   "platformCommit": true,
