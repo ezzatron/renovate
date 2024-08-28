@@ -4,6 +4,7 @@
 
   "allowedPostUpgradeCommands": [],
   "autodiscover": true,
+  "autodiscoverFilter": ["!/renovate-.*-repro/"],
   "onboarding": false,
   "username": "ezzatron-renovate[bot]"
 }
