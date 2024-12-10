@@ -16,7 +16,7 @@
   "gitAuthor": "Ezzatron Renovate <147964408+ezzatron-renovate[bot]@users.noreply.github.com>",
   "labels": ["renovate"],
   "pinDigests": false,
-  "platformCommit": true,
+  "platformCommit": "enabled",
   "postUpdateOptions": ["npmDedupe"],
   "reviewers": ["team:renovate-reviewers"],
 
