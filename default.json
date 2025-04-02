@@ -76,6 +76,11 @@
       "matchPackageNames": ["node"],
 
       "groupName": "Node.js",
+
+      "addLabels": ["trusted"],
+
+      "automerge": true,
+      "automergeType": "branch",
       "ignoreUnstable": false,
       "minimumReleaseAge": "1 week"
     },
@@ -132,6 +137,16 @@
       ],
 
       "addLabels": ["trusted"],
+
+      "automerge": true,
+      "automergeType": "branch"
+    },
+
+    {
+      "description": "NVM",
+      "matchManagers": ["nvm"],
+
+      "addLabels": ["nvm", "trusted"],
 
       "automerge": true,
       "automergeType": "branch"
