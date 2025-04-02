@@ -108,18 +108,6 @@
 
       "automerge": true
     },
-    {
-      "description": "NPM (eslint)",
-      "matchManagers": ["npm"],
-      "matchPackageNames": ["eslint"],
-      "allowedVersions": "<9"
-    },
-    {
-      "description": "NPM (eslint-plugin-vitest)",
-      "matchManagers": ["npm"],
-      "matchPackageNames": ["eslint-plugin-vitest"],
-      "allowedVersions": "<0.5"
-    },
 
     {
       "description": "Terraform",
