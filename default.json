@@ -130,6 +130,7 @@
         "lucide-react",
         "next",
         "octokit",
+        "open-props",
         "prettier",
         "tailwindcss",
         "typescript",
