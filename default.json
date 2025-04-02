@@ -108,6 +108,34 @@
 
       "automerge": true
     },
+    {
+      "description": "NPM (trusted)",
+      "matchManagers": ["npm"],
+      "matchPackageNames": [
+        "@eslint/*",
+        "@next/*",
+        "@octokit/*",
+        "@tailwindcss/*",
+        "@types/*",
+        "@vitest/*",
+        "esbuild",
+        "eslint",
+        "eslint-config-next",
+        "eslint-import-resolver-typescript",
+        "lucide-react",
+        "next",
+        "octokit",
+        "prettier",
+        "tailwindcss",
+        "typescript",
+        "vitest"
+      ],
+
+      "addLabels": ["trusted"],
+
+      "automerge": true,
+      "automergeType": "branch"
+    },
 
     {
       "description": "Terraform",
