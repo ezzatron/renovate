@@ -133,7 +133,8 @@
         "prettier",
         "tailwindcss",
         "typescript",
-        "vitest"
+        "vitest",
+        "zod"
       ],
 
       "addLabels": ["trusted"],
