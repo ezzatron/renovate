@@ -18,7 +18,7 @@
   "pinDigests": false,
   "platformCommit": "enabled",
   "postUpdateOptions": ["npmDedupe"],
-  "reviewers": ["team:renovate-reviewers"],
+  "reviewers": ["ezzatron"],
   "stopUpdatingLabel": "blocked",
 
   "packageRules": [
