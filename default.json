@@ -130,10 +130,13 @@
         "next",
         "octokit",
         "open-props",
+        "postcss",
         "prettier",
+        "react",
         "tailwindcss",
         "typescript",
         "vitest",
+        "webpack",
         "zod"
       ],
 
