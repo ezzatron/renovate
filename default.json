@@ -89,19 +89,13 @@
       "description": "NPM",
       "matchManagers": ["npm"],
 
-      "addLabels": ["npm"],
-
-      "minimumReleaseAge": "1 week"
+      "addLabels": ["npm"]
     },
     {
-      "description": "NPM (packageManager)",
-      "matchManagers": ["npm"],
-      "matchDepTypes": ["packageManager"],
+      "description": "NPM (minimum release age)",
+      "matchDatasources": ["npm"],
 
-      "addLabels": ["trusted"],
-
-      "automerge": true,
-      "automergeType": "branch"
+      "minimumReleaseAge": "1 week"
     },
     {
       "description": "NPM (non-dev)",
