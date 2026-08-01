@@ -119,7 +119,7 @@
     },
     {
       "description": "NPM (trusted)",
-      "matchManagers": ["npm"],
+      "matchDatasources": ["npm"],
       "matchPackageNames": [
         "@eslint/*",
         "@next/*",
